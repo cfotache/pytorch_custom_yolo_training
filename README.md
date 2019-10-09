@@ -1,1 +1,1 @@
-# pytorch_custom_yolo_training
+# Training YOLO with Custom Dataset in PyTorch

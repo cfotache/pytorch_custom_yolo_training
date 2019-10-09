@@ -1,4 +1,4 @@
-classes=9
+classes=3
 train=data/artifacts/train.txt
 valid=data/artifacts/val.txt
 names=config/coco.names
